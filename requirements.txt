@@ -1,0 +1,16 @@
+torch
+torchvision
+opencv-python
+ffmpeg-python
+numpy>=2.0.0,<2.1.0
+scipy
+TTS
+face-alignment
+gfpgan
+basicsr
+facexlib
+moviepy
+resampy
+librosa
+soundfile
+pandas==2.2.2
